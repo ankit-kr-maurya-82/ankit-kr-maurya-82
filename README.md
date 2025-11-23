@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am learning code | Growing through code</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://myproject-akmaurya-4wanq9hoo.vercel.app/](https://myproject-akmaurya-4wanq9hoo.vercel.app/)
