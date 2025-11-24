@@ -1,28 +1,99 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar Maurya</h1>
-<h3 align="center">I am learning code | Growing through code</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Ankit Kumar Maurya</span></h1>
+<h3 align="center">🚀 Learning Code | Growing Through Code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-kr-maurya-82&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kr-maurya-82" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-kr-maurya-82" alt="ankit-kr-maurya-82" /></a> </p>
-
-
-- 👨‍💻 All of my portfolio are available at [https://myproject-akmaurya-4wanq9hoo.vercel.app/](https://myproject-akmaurya-4wanq9hoo.vercel.app/)
-
-- 📫 How to reach me **ankitkrmaurya82@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ankitku12131641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ankitku12131641" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-kumar-maurya-ba4390334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-kumar-maurya-ba4390334/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.ankit._82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.ankit._82" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankit-kr-maurya-82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankit-kr-maurya-82" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankit-kr-maurya-82&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-kr-maurya-82&show_icons=true&locale=en&layout=compact" alt="ankit-kr-maurya-82" /></p>
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://twitter.com/@ankitku12131641" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40px" />
+  </a>
+  <a href="https://linkedin.com/in/ankit-kumar-maurya-ba4390334/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
+  </a>
+  <a href="https://instagram.com/_.ankit._82" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40px" />
+  </a>
+  <a href="https://leetcode.com/ankit-kr-maurya-82" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="40px" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-kr-maurya-82&show_icons=true&locale=en" alt="ankit-kr-maurya-82" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kr-maurya-82&" alt="ankit-kr-maurya-82" /></p>
+<h2 align="center">💼 Portfolio</h2>
+
+<p align="center">
+  <a href="https://myproject-akmaurya-4wanq9hoo.vercel.app/" target="_blank">
+    👉 <strong>Visit My Projects Website</strong>
+  </a>
+</p>
+
+<p align="center">📫 Reach me at: <b>ankitkrmaurya82@gmail.com</b></p>
+
+---
+
+<h2 align="center">🛠️ Technologies I Work With</h2>
+
+<h3>🎨 Frontend</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+  <img src="https://skillicons.dev/icons?i=react" width="45" />
+</p>
+
+---
+
+<h3>⚙️ Backend</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
+  <img src="https://skillicons.dev/icons?i=express" width="45" />
+  <img src="https://skillicons.dev/icons?i=python" width="45" />
+  <img src="https://skillicons.dev/icons?i=c" width="45" />
+</p>
+
+---
+
+<h3>🗄️ Database</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" />
+</p>
+
+---
+
+<h3>🛠️ Tools & Platforms</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <img src="https://skillicons.dev/icons?i=postman" width="45" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="45" />
+  <img src="https://skillicons.dev/icons?i=blender" width="45" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankit-kr-maurya-82&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-kr-maurya-82&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kr-maurya-82&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankit-kr-maurya-82&theme=radical&margin-w=15&row=1" />
+</p>
