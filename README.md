@@ -55,6 +55,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
   <img src="https://skillicons.dev/icons?i=express" width="45" />
 </p>
+
+---
+
 <h3>☸️ Programming</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript" width="45" />
