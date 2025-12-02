@@ -45,7 +45,6 @@
   <img src="https://skillicons.dev/icons?i=css" width="45" />
   <img src="https://skillicons.dev/icons?i=bootstrap" width="45" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="45" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
   <img src="https://skillicons.dev/icons?i=react" width="45" />
 </p>
 
@@ -55,6 +54,10 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" width="45" />
   <img src="https://skillicons.dev/icons?i=express" width="45" />
+</p>
+<h3>☸️ Programming</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
   <img src="https://skillicons.dev/icons?i=python" width="45" />
   <img src="https://skillicons.dev/icons?i=c" width="45" />
 </p>
