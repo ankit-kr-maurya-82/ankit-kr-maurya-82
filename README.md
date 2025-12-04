@@ -103,3 +103,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankit-kr-maurya-82&theme=radical&margin-w=15&row=1" />
 </p>
+
+
+<p align="center">
+![snake gif](https://github.com/ankit-kr-maurya-82/ankit-kr-maurya-82/blob/output/github-snake-dark.svg)
+</p>
+
