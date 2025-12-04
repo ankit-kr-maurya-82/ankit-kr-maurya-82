@@ -107,5 +107,8 @@
 
 <p align="center">
 ![snake gif](https://github.com/ankit-kr-maurya-82/ankit-kr-maurya-82/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/ankit-kr-maurya-82/ankit-kr-maurya-82/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg
+)
+
 </p>
 
