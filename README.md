@@ -110,3 +110,33 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-snake-dark.svg" />
 </p>
+
+
+## 📈 Activity Overview (Live)
+
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-kr-maurya-82&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit-kr-maurya-82&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Repos per language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankit-kr-maurya-82&theme=tokyonight" />
+  <!-- Commits per language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankit-kr-maurya-82&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit-kr-maurya-82&theme=tokyonight" />
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankit-kr-maurya-82&theme=tokyonight" />
+</p>
+
+
