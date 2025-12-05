@@ -3,6 +3,7 @@
 
 <!-- Top Badges -->
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://komarev.com/ghpvc/?username=ankit-kr-maurya-82&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
   <a href="https://github.com/ankit-kr-maurya-82">
     <img src="https://img.shields.io/github/stars/ankit-kr-maurya-82.svg?logo=github&style=flat-square" alt="GitHub Stars" />
   </a>
