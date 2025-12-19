@@ -110,4 +110,4 @@
 - **Email:** ankitkrmaurya82@gmail.com  
 - **LinkedIn:** [ankit-kumar-maurya](https://linkedin.com/in/ankit-kumar-maurya-ba4390334/)  
 - **Twitter:** [@ankitku12131641](https://twitter.com/ankitku12131641)  
-- **Instagram:** [_.ankit._82](https://instagram.com/_.ankit._82)
+- **Instagram:** [ak_maurya_50](https://instagram.com/ak_maurya_50)
