@@ -1,9 +1,14 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Ankit Kumar Maurya</span></h1>
-<h3 align="center">🚀 Learning Code | Growing Through Code</h3>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4fc3f7;">Ankit Kumar Maurya</span>
+</h1>
+
+<h3 align="center">
+  🚀 Backend & Full-Stack Developer | Learning by Building
+</h3>
 
 <!-- Top Badges -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://komarev.com/ghpvc/?username=ankit-kr-maurya-82&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankit-kr-maurya-82&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
   <a href="https://github.com/ankit-kr-maurya-82">
     <img src="https://img.shields.io/github/stars/ankit-kr-maurya-82.svg?logo=github&style=flat-square" alt="GitHub Stars" />
   </a>
@@ -13,17 +18,18 @@
   <a href="https://github.com/ankit-kr-maurya-82?tab=repositories">
     <img src="https://img.shields.io/github/repos/ankit-kr-maurya-82.svg?logo=github&style=flat-square" alt="Repos" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankit-kr-maurya-82" alt="Visitors" />
-</div>
-
+</p>
 
 ---
-
 
 ## 💼 Portfolio
 
 <p align="center">
-  👉 <strong><a href="https://myproject-akmaurya-4wanq9hoo.vercel.app/" target="_blank">Visit My Projects Website</a></strong>
+  👉 <strong>
+    <a href="https://myproject-akmaurya-4wanq9hoo.vercel.app/" target="_blank">
+      Visit My Projects Website
+    </a>
+  </strong>
 </p>
 
 📫 Reach me: **ankitkrmaurya82@gmail.com**
@@ -33,30 +39,31 @@
 ## 🛠️ Tech Stack
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" alt="frontend" width="260"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" width="300"/>
 
 **Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" width="140"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" width="180"/>
 
 **Programming**  
-<img src="https://skillicons.dev/icons?i=javascript,python,c" alt="programming" width="220"/>
+<img src="https://skillicons.dev/icons?i=javascript,python,c" width="260"/>
 
 **Database**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="db" width="140"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" width="180"/>
 
 **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" alt="tools" width="280"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" width="300"/>
 
 ---
 
 ## 📂 Projects & Repositories
 
-| Project | Tech Stack | Live / Repo Link |
-|---------|------------|----------------|
+| Project | Tech Stack | Live / Repo |
+|-------|------------|-------------|
 | Portfolio Website | HTML, CSS, JS | [Live](https://myproject-akmaurya-4wanq9hoo.vercel.app/) |
-|Cololab Website | React.js, Tailwind | [Live](https://cololab.vercel.app/) |
-|TrainJourney  | Python, SQL | [Repo](https://github.com/ankit-kr-maurya-82/Python-Projects/tree/main/trainTicket) |
-|FoodMenu  | Python | [Repo](https://github.com/ankit-kr-maurya-82/Python-Projects/tree/main/FoodMenu) |
+| Cololab Website | React, Tailwind | [Live](https://cololab.vercel.app/) |
+| TrainJourney System | Python, SQL | [Repo](https://github.com/ankit-kr-maurya-82/Python-Projects/tree/main/trainTicket) |
+| Food Menu App | Python | [Repo](https://github.com/ankit-kr-maurya-82/Python-Projects/tree/main/FoodMenu) |
+| Auth REST API | Node.js, Express, MongoDB, JWT | [Repo](https://github.com/ankit-kr-maurya-82) |
 
 ---
 
@@ -68,10 +75,21 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake (2025–2026)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-snake-dark.svg" alt="github snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" 
+      src="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  🟢 Contributions from <b>2025</b> & <b>2026</b> (auto-updated daily)
 </p>
 
 ---
@@ -79,20 +97,17 @@
 ## 📊 GitHub Stats (Live)
 
 <p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankit-kr-maurya-82&show_icons=true&theme=tokyonight" /> -->
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-kr-maurya-82&layout=compact&theme=tokyonight" /> -->
-</p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kr-maurya-82&theme=tokyonight" />
+  <img width="50%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kr-maurya-82&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Activity Overview (Live)
+## 📈 Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-kr-maurya-82&theme=tokyo-night&area=true&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-kr-maurya-82&theme=tokyonight&area=true&hide_border=true" />
 </p>
 
 <p align="center">
