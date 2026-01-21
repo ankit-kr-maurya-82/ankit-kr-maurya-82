@@ -63,7 +63,8 @@
 | Cololab Website | React, Tailwind | [Live](https://cololab.vercel.app/) |
 | TrainJourney System | Python, SQL | [Repo](https://github.com/ankit-kr-maurya-82/Python-Projects/tree/main/trainTicket) |
 | Food Menu App | Python | [Repo](https://github.com/ankit-kr-maurya-82/Python-Projects/tree/main/FoodMenu) |
-| Auth REST API | Node.js, Express, MongoDB, JWT | [Repo](https://github.com/ankit-kr-maurya-82) |
+<!--| Auth REST API | Node.js, Express, MongoDB, JWT | [Repo](https://github.com/ankit-kr-maurya-82) | -->
+|  Node.js, Express, MongoDB, JWT | [Repo](https://github.com/ankit-kr-maurya-82) |
 
 ---
 
