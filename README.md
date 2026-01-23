@@ -22,7 +22,7 @@
 
 ---
 
-## 💼 Portfolio
+<!-- ## 💼 Portfolio
 
 <p align="center">
   👉 <strong>
@@ -31,6 +31,7 @@
     </a>
   </strong>
 </p>
+-->
 
 📫 Reach me: **ankitkrmaurya82@gmail.com**
 
