@@ -60,7 +60,7 @@
 
 | Project | Tech Stack | Live / Repo |
 |-------|------------|-------------|
-| Portfolio Website | HTML, CSS, JS | [Live](https://myproject-akmaurya-4wanq9hoo.vercel.app/) |
+| Portfolio Website | HTML, CSS, JS | [Live](https://myportfolio-akmaurya.vercel.app/) |
 | Cololab Website | React, Tailwind | [Live](https://cololab.vercel.app/) |
 | TrainJourney System | Python, SQL | [Repo](https://github.com/ankit-kr-maurya-82/Python-Projects/tree/main/trainTicket) |
 | Food Menu App | Python | [Repo](https://github.com/ankit-kr-maurya-82/Python-Projects/tree/main/FoodMenu) |
