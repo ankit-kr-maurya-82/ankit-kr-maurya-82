@@ -46,7 +46,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express" width="180"/>
 
 **Programming**  
-<img src="https://skillicons.dev/icons?i=javascript,python,c" width="260"/>
+<img src="https://skillicons.dev/icons?i=javascript,python,c,java" width="260"/>
 
 **Database**  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" width="180"/>
