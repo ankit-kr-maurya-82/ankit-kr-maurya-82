@@ -109,8 +109,6 @@ Goal:
 | Vedam | MERN | https://vedam-fronted.vercel.app |
 | CareMe | MERN | https://careme-fronted.vercel.app |
 | Cololab | React + Tailwind | https://cololab.vercel.app |
-| AI Code Generator | FastAPI + LLM | Coming Soon |
-| AI Chatbot | Offline LLM | Coming Soon |
 
 ---
 
