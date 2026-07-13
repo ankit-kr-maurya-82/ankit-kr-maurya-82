@@ -28,8 +28,7 @@ Role: Backend Developer
 Currently Learning:
   - Java
   - Data Structures & Algorithms (DSA)
-  - AI
-  - LLMs
+  - Object-Oriented Programming (OOP)
   - FastAPI
   - System Design
 
@@ -62,7 +61,7 @@ Tools:
   - Vercel
 
 Goal:
-  Become an AI Backend Engineer
+  Become an Backend Engineer
 ```
 
 ---
