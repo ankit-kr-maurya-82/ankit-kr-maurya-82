@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Backend+Developer+⚡;MERN+Stack+Developer;Node.js+%7C+Express+%7C+MongoDB;Learning+Java+%26+DSA;Learning+AI+%26+LLMs;Always+Building+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Backend+Developer+⚡;MERN+Stack+Developer;Node.js+%7C+Express+%7C+MongoDB;Learning+Java+%26+DSA;Always+Building+Projects"/>
 </p>
 
 <p align="center">
@@ -153,7 +153,7 @@ Goal:
 
 <p align="center">
 
-<a href="mailto:ankitkrmaurya82@gmail.com">
+<a href="mailto:ankitkrmaurya61@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
