@@ -141,10 +141,10 @@ Goal:
 
 ---
 
-# 🐍 Contribution Snake
+# 👾 Pac-Man Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/pacman-contribution-graph-dark.svg"/>
 </p>
 
 ---
