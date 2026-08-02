@@ -95,7 +95,11 @@
 </p>
 
 ---
+# 🐍 Snake Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation"/>
+</p>
 # 👾 Pac-Man Contribution Graph
 
 <p align="center">
