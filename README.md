@@ -59,7 +59,7 @@
 
 | Project | Technology | Live Demo |
 |----------|------------|-----------|
-| 🌐 Portfolio Website | HTML, CSS, JavaScript | https://myportfolio-akmaurya.vercel.app |
+| 🌐 Portfolio  | HTML, CSS, JavaScript | https://akmaurya.vercel.app|
 | 💊 Vedam | MERN Stack | https://vedam-fronted.vercel.app |
 | ❤️ CareMe | MERN Stack | https://careme-fronted.vercel.app |
 | 🤝 Cololab | React + Tailwind CSS | https://cololab.vercel.app |
