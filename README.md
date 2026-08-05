@@ -65,28 +65,9 @@ Collaboration Platform
 
 https://cololab.vercel.app
 
-📊 GitHub Statistics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit-kr-maurya-82&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kr-maurya-82&layout=compact&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kr-maurya-82&theme=tokyonight"/>
-</p>
 
-📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-kr-maurya-82&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
-🐍 Snake Contribution
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 🌱 Currently Learning
 
