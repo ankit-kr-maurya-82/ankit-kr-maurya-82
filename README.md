@@ -59,7 +59,6 @@ contact: ankitkrmaurya61@gmail.com 📫
 | 🌐 **Portfolio** | Personal Portfolio Website | [akmaurya.vercel.app](https://akmaurya.vercel.app) |
 | 💊 **Vedam** | MERN Blogging Platform | [vedam-fronted.vercel.app](https://vedam-fronted.vercel.app) |
 | ❤️ **CareMe** | Healthcare Platform | [careme-fronted.vercel.app](https://careme-fronted.vercel.app) |
-| 🤝 **Cololab** | Collaboration Platform | [cololab.vercel.app](https://cololab.vercel.app) |
 
 </div>
 
