@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=ANKIT%20KUMAR%20MAURYA&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20⚡&descAlignY=55"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Backend+Developer;MERN+Stack+Developer;Node.js+%7C+Express+%7C+MongoDB;Learning+Java+%26+DSA;Always+Building+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Backend+Developer;System+Design;MERN+Stack+Developer;Node.js+%7C+Express+%7C+MongoDB;Learning+Java+%26+DSA;Always+Building+Projects"/>
 
 <img src="https://komarev.com/ghpvc/?username=ankit-kr-maurya-82&style=for-the-badge&color=2563EB"/>
 <img src="https://img.shields.io/github/followers/ankit-kr-maurya-82?style=for-the-badge&color=2563EB&logo=github"/>
