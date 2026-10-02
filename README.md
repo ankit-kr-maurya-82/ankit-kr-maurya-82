@@ -83,6 +83,16 @@ contact: ankitkrmaurya61@gmail.com
 
 <br/>
 
+## 📈 Weekly Contribution Graph
+
+<div align="center">
+
+<img width="100%"
+  src="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/activity-graph/activity-line.svg"
+  alt="Weekly GitHub contribution line graph"/>
+
+</div>
+
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
