@@ -129,7 +129,21 @@ contact: ankitkrmaurya61@gmail.com
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-snake.svg"
+  />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/ankit-kr-maurya-82/ankit-kr-maurya-82/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </div>
 
