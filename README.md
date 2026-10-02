@@ -115,16 +115,6 @@ contact: ankitkrmaurya61@gmail.com
 
 <br/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-kr-maurya-82&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
