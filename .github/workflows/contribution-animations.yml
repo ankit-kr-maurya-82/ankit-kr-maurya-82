@@ -1,57 +1,55 @@
-name: generate contribution animations
+name: Generate Contribution Animations
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # once a day
-  workflow_dispatch:        # allow manual trigger
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-animations
+  cancel-in-progress: false
+
 jobs:
-  generate-snake:
-    permissions:
-      contents: write
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
-      - name: generate snake svg
-        uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ankit-kr-maurya-82
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ankit-kr-maurya-82
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  generate-pacman:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-      - name: install pacman-contribution-graph
-        run: npm install -g pacman-contribution-graph
-      - name: generate pacman svg
+      - name: Verify generated files
         run: |
-          mkdir -p dist
-          pacman-contribution-graph \
-            --platform github \
-            --username ankit-kr-maurya-82 \
-            --output dist/pacman-contribution-graph.svg
-      - name: push output to output branch
+          test -s output/github-snake.svg
+          test -s output/github-snake-dark.svg
+          test -s output/pacman-contribution-graph.svg
+
+      - name: Publish all animations together
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
