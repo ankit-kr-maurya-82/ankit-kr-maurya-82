@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="460" viewBox="0 0 920 460" role="img" aria-labelledby="title desc">
+<title id="title">GitHub contribution line graph</title>
+<desc id="desc">2026-10-10: 41 contributions, 2026-10-11: 51 contributions, 2026-10-12: 6 contributions, 2026-10-13: 0 contributions, 2026-10-14: 2 contributions, 2026-10-15: 11 contributions, 2026-10-16: 13 contributions</desc>
+<rect width="920" height="460" rx="18" fill="#cfcfcf"/>
+<g font-family="Arial, sans-serif" fill="#262626">
+<text x="85" y="36" font-size="23" font-weight="700">ankit-kr-maurya-82 — Contributions</text>
+<text x="85" y="62" font-size="14">Last 7 completed UTC days · GitHub calendar counts</text>
+<path d="M 85 350.0 H 825" stroke="#8652cf" stroke-width="1"/>
+<text x="72" y="356.0" text-anchor="end" font-size="18">0</text>
+<path d="M 85 285.0 H 825" stroke="#8652cf" stroke-width="1"/>
+<text x="72" y="291.0" text-anchor="end" font-size="18">13</text>
+<path d="M 85 220.0 H 825" stroke="#8652cf" stroke-width="1"/>
+<text x="72" y="226.0" text-anchor="end" font-size="18">26</text>
+<path d="M 85 155.0 H 825" stroke="#8652cf" stroke-width="1"/>
+<text x="72" y="161.0" text-anchor="end" font-size="18">39</text>
+<path d="M 85 90.0 H 825" stroke="#8652cf" stroke-width="1"/>
+<text x="72" y="96.0" text-anchor="end" font-size="18">52</text>
+<path d="M 85.0 90 V 350" stroke="#8652cf" stroke-width="1"/>
+<text x="85.0" y="383" text-anchor="middle" font-size="18" font-weight="700">Sat</text>
+<text x="85.0" y="405" text-anchor="middle" font-size="13">10 Oct</text>
+<path d="M 208.33333333333331 90 V 350" stroke="#8652cf" stroke-width="1"/>
+<text x="208.33333333333331" y="383" text-anchor="middle" font-size="18" font-weight="700">Sun</text>
+<text x="208.33333333333331" y="405" text-anchor="middle" font-size="13">11 Oct</text>
+<path d="M 331.66666666666663 90 V 350" stroke="#8652cf" stroke-width="1"/>
+<text x="331.66666666666663" y="383" text-anchor="middle" font-size="18" font-weight="700">Mon</text>
+<text x="331.66666666666663" y="405" text-anchor="middle" font-size="13">12 Oct</text>
+<path d="M 455.0 90 V 350" stroke="#8652cf" stroke-width="1"/>
+<text x="455.0" y="383" text-anchor="middle" font-size="18" font-weight="700">Tue</text>
+<text x="455.0" y="405" text-anchor="middle" font-size="13">13 Oct</text>
+<path d="M 578.3333333333333 90 V 350" stroke="#8652cf" stroke-width="1"/>
+<text x="578.3333333333333" y="383" text-anchor="middle" font-size="18" font-weight="700">Wed</text>
+<text x="578.3333333333333" y="405" text-anchor="middle" font-size="13">14 Oct</text>
+<path d="M 701.6666666666666 90 V 350" stroke="#8652cf" stroke-width="1"/>
+<text x="701.6666666666666" y="383" text-anchor="middle" font-size="18" font-weight="700">Thu</text>
+<text x="701.6666666666666" y="405" text-anchor="middle" font-size="13">15 Oct</text>
+<path d="M 825.0 90 V 350" stroke="#8652cf" stroke-width="1"/>
+<text x="825.0" y="383" text-anchor="middle" font-size="18" font-weight="700">Fri</text>
+<text x="825.0" y="405" text-anchor="middle" font-size="13">16 Oct</text>
+<path d="M85 74 V350 H844" fill="none" stroke="#6d28d9" stroke-width="3"/>
+<path d="M85 70 L77 85 H93 Z M852 350 L837 342 V358 Z" fill="#6d28d9"/>
+<polyline points="85.00,145.00 208.33,95.00 331.67,320.00 455.00,350.00 578.33,340.00 701.67,295.00 825.00,285.00" fill="none" stroke="#2783de" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="85.0" cy="145.0" r="6" fill="#2783de"/>
+<text x="85.0" y="133.0" text-anchor="middle" font-size="15" font-weight="700">41</text>
+<circle cx="208.33333333333331" cy="95.0" r="6" fill="#2783de"/>
+<text x="208.33333333333331" y="83.0" text-anchor="middle" font-size="15" font-weight="700">51</text>
+<circle cx="331.66666666666663" cy="320.0" r="6" fill="#2783de"/>
+<text x="331.66666666666663" y="308.0" text-anchor="middle" font-size="15" font-weight="700">6</text>
+<circle cx="455.0" cy="350.0" r="6" fill="#2783de"/>
+<text x="455.0" y="338.0" text-anchor="middle" font-size="15" font-weight="700">0</text>
+<circle cx="578.3333333333333" cy="340.0" r="6" fill="#2783de"/>
+<text x="578.3333333333333" y="328.0" text-anchor="middle" font-size="15" font-weight="700">2</text>
+<circle cx="701.6666666666666" cy="295.0" r="6" fill="#2783de"/>
+<text x="701.6666666666666" y="283.0" text-anchor="middle" font-size="15" font-weight="700">11</text>
+<circle cx="825.0" cy="285.0" r="6" fill="#2783de"/>
+<text x="825.0" y="273.0" text-anchor="middle" font-size="15" font-weight="700">13</text>
+<text x="85" y="439" font-size="13">2026-10-10 to 2026-10-16 · Total: 124</text></g></svg>
